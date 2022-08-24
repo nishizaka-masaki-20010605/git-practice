@@ -1,0 +1,13 @@
+.firstTitle{
+    color:red;
+    text-align: center;
+}
+p,h2{
+    color:blue;
+    text-align: center;
+}
+.linkGoogle{
+    color:purple;
+    text-align: center;
+    text-decoration:none;
+}
